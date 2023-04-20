@@ -1,0 +1,50 @@
+
+.background { 
+   width: 1500px;
+   height: 1000px;
+   background: rgb(255, 247, 237);
+   margin: 0%;
+
+} 
+.menu ul li{ 
+   list-style: none;
+   margin: 0 20px;
+   color: black;
+   cursor: pointer;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+} 
+.ul { 
+   list-style: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer; 
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+   }  
+
+.logo img{ 
+   width: 1000px;
+   height: 500px;
+   margin-top: -7px;
+   display: block;
+   margin: 0 auto;
+   pointer-events: none;
+} 
+
+.startpage {
+   width: 860px;
+   height: 100px;
+   margin-top: -7px;
+   display: block;
+   margin: 0 auto;
+   pointer-events: none;
+   z-index: 5;
+} 
+
+
+
+
+
+  

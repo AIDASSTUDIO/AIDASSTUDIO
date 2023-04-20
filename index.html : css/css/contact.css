@@ -1,0 +1,53 @@
+
+ .menu ul{ 
+    margin: 50px;
+    display: inline-flex;   
+ } 
+ .menu ul li{ 
+    list-style: none;
+    margin: 0 20px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+ } 
+ .ul { 
+   list-style: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer; 
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+   }  
+
+   
+    .logo img{ 
+    width: 800px;
+    height: 100px;
+    margin-top: -7px;
+    display: block;
+    margin: 0 auto;
+    pointer-events: none;
+ } 
+
+.background { 
+   width: 1500px;
+   height: 1200px;
+   background: rgb(255, 247, 237);
+   z-index: 1;
+   background-position: 10px 20px ;
+
+} 
+
+ .kontakt{   
+   width: 1000px;
+   height: 100px;
+   margin-top: 100px;
+   display: block;
+   margin: 0 auto;
+   pointer-events: none;
+   z-index: 5;
+}
+
+
+
